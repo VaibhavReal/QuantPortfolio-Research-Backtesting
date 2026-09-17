@@ -1,0 +1,5 @@
+Strategy,Total Return,CAGR,Ann. Volatility,Sharpe Ratio,Sortino Ratio,Max Drawdown,Beta,Calmar Ratio,Tracking Error
+Equal Weight,2.5605,0.2364,0.189,0.9256,1.3242,-0.2944,0.8988,0.803,0.0581
+Minimum Variance,1.2719,0.147,0.1741,0.5628,0.8038,-0.3186,0.7106,0.4613,0.115
+Risk Parity,2.4216,0.2282,0.1832,0.9137,1.3123,-0.2948,0.8601,0.774,0.066
+S&P 500,1.4131,0.1586,0.2014,0.5632,0.7816,-0.3392,1.0,0.4675,0.0
